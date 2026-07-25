@@ -1,0 +1,13 @@
+timestamp,route_id,route_name,travel_time_with_traffic_sec,free_flow_time_sec,congestion_index,temperature_c,precipitation_mm,weather_code
+2026-07-25 18:00:14.499096,1,Shahrah-e-Faisal,677,677,1.0,29.2,0.0,3
+2026-07-25 18:00:14.499096,2,University Road,419,419,1.0,29.2,0.0,3
+2026-07-25 18:00:14.499096,3,I.I. Chundrigar Road,374,374,1.0,29.2,0.0,3
+2026-07-25 18:00:14.499096,4,Sharea Faisal to Airport,1339,1339,1.0,29.2,0.0,3
+2026-07-25 18:00:14.499096,5,Korangi Road,3015,3015,1.0,29.2,0.0,3
+2026-07-25 18:00:14.499096,6,M.A. Jinnah Road,450,450,1.0,29.2,0.0,3
+2026-07-25 19:26:51.157432,1,Shahrah-e-Faisal,677,677,1.0,29.0,0.0,3
+2026-07-25 19:26:51.157432,2,University Road,419,419,1.0,29.0,0.0,3
+2026-07-25 19:26:51.157432,3,I.I. Chundrigar Road,374,374,1.0,29.0,0.0,3
+2026-07-25 19:26:51.157432,4,Sharea Faisal to Airport,1339,1339,1.0,29.0,0.0,3
+2026-07-25 19:26:51.157432,5,Korangi Road,3015,3015,1.0,29.0,0.0,3
+2026-07-25 19:26:51.157432,6,M.A. Jinnah Road,450,450,1.0,29.0,0.0,3
