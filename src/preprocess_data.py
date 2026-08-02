@@ -19,7 +19,7 @@ Run it with:
 import os
 import pandas as pd
 
-RAW_FILE = os.path.join("data", "raw", "traffic_data.csv")
+RAW_FILE = os.path.join("data", "raw", "traffic_data_synthetic.csv")
 PROCESSED_FILE = os.path.join("data", "processed", "traffic_data_clean.csv")
 
 # Columns that should be treated as numbers
