@@ -1,0 +1,7 @@
+route_id,route_name,prophet_mae,prophet_rmse,prophet_mape,arima_mae,arima_rmse,arima_mape,best_model
+1,Shahrah-e-Faisal,0.096,0.1253,7.84,0.0996,0.1454,8.28,Prophet
+2,University Road,0.0935,0.1311,7.48,0.0986,0.1501,7.73,Prophet
+3,I.I. Chundrigar Road,0.0927,0.1325,7.48,0.0953,0.1493,7.48,Prophet
+4,Sharea Faisal to Airport,0.0867,0.1112,7.22,0.0906,0.1334,7.38,Prophet
+5,Korangi Road,0.089,0.1291,7.15,0.0929,0.1464,7.31,Prophet
+6,M.A. Jinnah Road,0.0935,0.1334,7.53,0.1088,0.1578,9.05,Prophet
