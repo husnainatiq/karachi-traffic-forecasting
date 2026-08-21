@@ -1,0 +1,7 @@
+route_id,route_name,arima_order,seasonal_order,arima_quick_mae
+1,Shahrah-e-Faisal,"(1, 1, 2)","(0, 1, 1, 24)",0.0996
+2,University Road,"(1, 0, 1)","(1, 1, 1, 24)",0.0986
+3,I.I. Chundrigar Road,"(1, 0, 1)","(1, 1, 1, 24)",0.0953
+4,Sharea Faisal to Airport,"(1, 0, 1)","(1, 1, 1, 24)",0.0906
+5,Korangi Road,"(1, 0, 1)","(1, 1, 1, 24)",0.0929
+6,M.A. Jinnah Road,"(1, 1, 2)","(0, 1, 1, 24)",0.1088

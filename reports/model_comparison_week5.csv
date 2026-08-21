@@ -1,0 +1,7 @@
+route_id,route_name,prophet_quick_mae,arima_order,seasonal_order,arima_quick_mae,better_model
+1,Shahrah-e-Faisal,0.096,"(1, 1, 2)","(0, 1, 1, 24)",0.0996,Prophet
+2,University Road,0.0935,"(1, 0, 1)","(1, 1, 1, 24)",0.0986,Prophet
+3,I.I. Chundrigar Road,0.0927,"(1, 0, 1)","(1, 1, 1, 24)",0.0953,Prophet
+4,Sharea Faisal to Airport,0.0867,"(1, 0, 1)","(1, 1, 1, 24)",0.0906,Prophet
+5,Korangi Road,0.089,"(1, 0, 1)","(1, 1, 1, 24)",0.0929,Prophet
+6,M.A. Jinnah Road,0.0935,"(1, 1, 2)","(0, 1, 1, 24)",0.1088,Prophet

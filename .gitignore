@@ -217,3 +217,9 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 logs/
+
+# Large ARIMA model files
+models/arima/*.pkl
+
+# Local backup of large ARIMA models
+models/arima_BACKUP/
